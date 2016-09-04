@@ -1,0 +1,23 @@
+wordCutOff = 0
+maxIter = 40
+batchSize = 50
+adaAlpha = 0.01
+dropProb = 0.5
+hiddenSize = -1
+wordEmbSize = 50
+otherEmbSize = 50
+entity_embsize = -1
+context_embsize = -1
+evalPerIter = 1
+wordEmbFineTune = true
+puncPath = /dawnfs/users/nlplab/user/lifei/dict/english_punctuation.txt
+verboseIter = 50
+embFile = 
+attention = false
+wordnet = 
+brown = 
+channelMode = 1
+wordcontext = 0
+rnnHiddenSize = 50
+
+
